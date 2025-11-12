@@ -1,7 +1,3 @@
-# Primera Iteración
+![Planteamiento examen](./diagramas/diagrama1.svg)
 
-![Primera Iteración](./diagramas/diagrama1.svg)
-
-# Segunda Iteración (con correcciones)
-
-![Segunda Iteración](./diagramas/diagrama2.svg)
+[Correcciones](./correcciones.md)
